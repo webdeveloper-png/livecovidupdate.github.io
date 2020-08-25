@@ -1,0 +1,33 @@
+	*{font-family: 'Dosis', sans-serif;}
+
+  	html{
+  		scroll-behavior: smooth;
+  	}
+
+  	.container-fluid{
+  		background: lavender;
+  	}
+
+  	.container-fluid p{
+  		font-size: 17px;
+  		letter-spacing: 1px;
+  	}
+
+    #mybtn{
+      display: none;
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      z-index: 99;
+      border: none;
+      outline: none;
+      background-color: #00A8FF;
+      color: white;
+      cursor: pointer;
+      padding: 10px;
+      border-radius: 50px;
+    }
+    #mybtn:hover{
+      background: rgba(0, 0, 0,0.3);
+    }
+  
