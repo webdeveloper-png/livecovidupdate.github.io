@@ -1,1 +1,0 @@
-# livecovidupdate.github.io
